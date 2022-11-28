@@ -1,0 +1,19 @@
+#content{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    min-height: 100vh;
+    /* height: 800px; */
+    background-color: yellow;
+}
+
+#main {
+    width: 1000px;     
+    background-color: pink;
+    border: 1px blue dashed;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    box-shadow: 5px 5px 5px;
+}
